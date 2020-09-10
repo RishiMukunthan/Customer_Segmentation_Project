@@ -1,4 +1,4 @@
-# Customer-Segmentation-Project
+# Customer_Segmentation_Project
 Customer Segmentation Project
 In this project, for the given dataset with credit card usage data of 8950 customers of a credit card company, 
 customer segmentation was performed using unsupervised ML algorithm (K-Means Clustering). 
